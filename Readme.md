@@ -28,9 +28,9 @@ npm run test
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/serengia)
-- Twitter: [@twitterhandle](https://twitter.com/JamesSerengia)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/James-Serengia)
+- GitHub: [@serengia](https://github.com/serengia)
+- Twitter: [@JamesSerengia](https://twitter.com/JamesSerengia)
+- LinkedIn: [James Serengia](https://linkedin.com/in/James-Serengia)
 
 ## 🤝 Contributing
 

@@ -7,13 +7,13 @@ const {
 } = require("./index");
 
 // MULTIPLE CONDITIONS TESTS
-test("james should return 5 chars", () => {
+test("char length", () => {
   //   expect(stringLength("James")).toBe(5);
   expect(stringLength("Serengia")).toBeGreaterThan(0);
   expect(stringLength("James")).toBeLessThanOrEqual(10);
 });
 
-test("'james t' should return", () => {
+test("reverse string checker", () => {
   expect(reverseString("james t")).toBe("t semaj");
 });
 
@@ -35,6 +35,6 @@ describe("calculator checker", () => {
 });
 
 // CAPITALIZE FIRST LATTER TEST
-test("capitalize first letter, 'james' should return 'James'", () => {
+test("capitalize first letter of a string", () => {
   expect(capitalize("james")).toBe("James");
 });
